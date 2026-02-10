@@ -1,7 +1,6 @@
-#British Airways: Customer Experience Analysis
+# Portfolio Projects
 
-### Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/niahyelleg/) 
+### Connect with Me: [LinkedIn](https://www.linkedin.com/in/niahyelleg/) 
 
 ---
 
